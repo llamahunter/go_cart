@@ -12,6 +12,7 @@ cartogram_generator/.deps/
 configure
 Makefile.in
 Makefile
+aclocal.m4
 config/
 m4/
 autom4te.cache/
@@ -25,3 +26,6 @@ config.log
 .DS_Store
 .DS_Store?
 ._*
+
+# IDE Files
+.idea/
